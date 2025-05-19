@@ -2,7 +2,7 @@
 # User Input Form with Validation in React
 
 This is a simple React application that demonstrates a user input form with validation. Users can enter their name, email, and select skills from a checkbox list. Submitted user data is displayed below the form.
-
+# Deployment:https://form-validation-hvuu.vercel.app/
 ## Features
 
 - Controlled form inputs with React state
@@ -25,9 +25,16 @@ This is a simple React application that demonstrates a user input form with vali
 
 - Node.js and npm installed on your machine
 
-### Installation
 
-1. Clone the repository
 
-```bash
-git clone https://github.com/yourusername/react-user-input-form.git
+
+## Landing page
+![image](https://github.com/user-attachments/assets/28f55916-4a5c-45be-984b-41259d77563e)
+
+# validation
+![image](https://github.com/user-attachments/assets/7222d0f6-c890-4d24-a70c-694c3a23e231)
+#  Submitted data
+![image](https://github.com/user-attachments/assets/6b2ec038-f9ac-4344-9649-63d8ccbac0c3)
+
+
+
